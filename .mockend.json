@@ -1,12 +1,7 @@
 {
-  "pendingChanges": {
-    oldQty: "2",
-    newQty: "10",
-    minQty: 1,
-    maxQty: 42,
-    scheduledBy: "Matt Henley",
-    scheduleAt: "07/04/2022 12:00AM",
-    scheduleStart: "14/04/2022 12:00AM",
-    endDate: "14/04/2022",
+  "User": {
+    "title": {
+      "string": {}
+    }
   }
 }
